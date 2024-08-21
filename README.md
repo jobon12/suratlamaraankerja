@@ -1,5 +1,5 @@
 # suratlamaraankerja
-[contoh surat lamaran kerja](https://www.pujihartono.id)
+[contoh surat lamaran kerja]([https://www.pujihartono.id](https://contoh-surat-lamaran-pekerjaan.github.io/))
 contoh cv lamaran kerja
 contoh surat lamaran kerja tulis tangan
 cv lamaran kerja
